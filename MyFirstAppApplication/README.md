@@ -1,4 +1,4 @@
-# 🌐 MyFirstAppApplication - Task 1
+﻿# 🌐 MyFirstAppApplication - Task 1
 
 An introductory Android application showcasing custom UI design, gradient styling, input fields, and interactive components.
 
@@ -22,8 +22,8 @@ An introductory Android application showcasing custom UI design, gradient stylin
 
 ## 📂 Project Structure
 
-```text
-MyFirstWebApplication/
+`	ext
+MyFirstAppApplication/
 ├── app/
 │   └── src/main/
 │       ├── java/com/example/myfirstwebapplication/
@@ -34,12 +34,12 @@ MyFirstWebApplication/
 │           └── values/
 │               └── strings.xml       # String constants
 └── build.gradle.kts
-```
+`
 
 ---
 
 ## 🚀 Getting Started
 
 1. Open Android Studio.
-2. Select **Open** and choose the `MyFirstWebApplication` directory.
-3. Build & Run the app (`Shift + F10`).
+2. Select **Open** and choose the MyFirstAppApplication directory.
+3. Build & Run the app (Shift + F10).

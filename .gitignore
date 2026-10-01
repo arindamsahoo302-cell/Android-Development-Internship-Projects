@@ -5,6 +5,7 @@
 build/
 **/.idea/
 .idea/
+.kotlin/
 captures/
 .externalNativeBuild
 .cxx
@@ -16,3 +17,4 @@ local.properties
 /LinkdinProfile/
 /recycleBing/
 /SimpleCalculator/
+/MyFirstWebApplication/
