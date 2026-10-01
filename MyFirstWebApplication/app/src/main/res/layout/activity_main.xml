@@ -4,7 +4,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#0B132B"
+    android:background="@color/bg_color"
     android:gravity="center"
     android:orientation="vertical"
     android:padding="24dp"
@@ -40,10 +40,10 @@
         android:textSize="16sp" />
 
     <Button
-<!--        android:id="@+id/btnSubmit"-->
+        android:id="@+id/btnSubmit"
         android:layout_width="match_parent"
         android:layout_height="56dp"
-        android:backgroundTint="#00B4D8"
+        android:backgroundTint="@color/button_color"
         android:text="SUBMIT"
         android:textColor="@color/white"
         android:textSize="16sp"
