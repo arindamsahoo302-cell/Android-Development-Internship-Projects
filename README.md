@@ -8,7 +8,7 @@ Welcome to the repository for **Android Development Internship** projects develo
 
 | Task | Project Folder | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- | :---: |
-| **Task 1** | [🌐 MyFirstWebApplication](./MyFirstWebApplication) | An Android UI application featuring custom typography, gradient styling, input fields, and interactive components. | Kotlin, XML, Material Design 3 | ✅ Completed |
+| **Task 1** | [🌐 MyFirstAppApplication](./MyFirstWebApplication) | An Android UI application featuring custom typography, gradient styling, input fields, and interactive components. | Kotlin, XML, Material Design 3 | ✅ Completed |
 
 ---
 
