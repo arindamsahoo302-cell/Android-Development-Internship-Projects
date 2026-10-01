@@ -10,3 +10,9 @@ captures/
 .cxx
 local.properties
 .DS_Store
+
+# Other internship projects (preserved locally, uncommitted until requested)
+/CollegeWebViewApp/
+/LinkdinProfile/
+/recycleBing/
+/SimpleCalculator/
