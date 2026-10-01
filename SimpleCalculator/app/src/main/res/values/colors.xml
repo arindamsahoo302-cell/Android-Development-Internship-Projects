@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Pastel / Soft Minimalist Calculator Colors -->
+    <color name="bg_main">#F8FAFC</color>
+    <color name="bg_display">#FFFFFF</color>
+    <color name="text_display">#0F172A</color>
+
+    <!-- Button Background Colors -->
+    <color name="btn_clear_bg">#FCA5A5</color>        <!-- Soft Coral / Pastel Red -->
+    <color name="btn_function_bg">#E2E8F0</color>     <!-- Soft Slate Gray -->
+    <color name="btn_operator_bg">#BFDBFE</color>     <!-- Soft Pastel Blue -->
+    <color name="btn_number_bg">#FFFFFF</color>       <!-- Clean White -->
+    <color name="btn_equals_bg">#818CF8</color>       <!-- Soft Pastel Indigo -->
+
+    <!-- Button Text Colors -->
+    <color name="btn_clear_text">#7F1D1D</color>
+    <color name="btn_function_text">#334155</color>
+    <color name="btn_operator_text">#1E40AF</color>
+    <color name="btn_number_text">#0F172A</color>
+    <color name="btn_equals_text">#FFFFFF</color>
+</resources>

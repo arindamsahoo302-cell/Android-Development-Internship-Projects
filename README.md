@@ -9,20 +9,21 @@ Welcome to the repository for **Android Development Internship** projects develo
 | Task | Project Folder | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- | :---: |
 | **Task 1** | [🌐 MyFirstAppApplication](./MyFirstAppApplication) | An Android UI application featuring custom typography, gradient styling, input fields, and interactive components. | Kotlin, XML, Material Design 3 | ✅ Completed |
+| **Task 2** | [🧮 SimpleCalculator](./SimpleCalculator) | A modern native Android Calculator application featuring arithmetic operators, parentheses, and dark-themed keypad UI. | Kotlin, ConstraintLayout, Material 3 | ✅ Completed |
 
 ---
 
 ## 🛠️ Tech Stack & Key Concepts
 
 - **Language:** Kotlin
-- **UI Framework:** Android XML, Material Components
-- **Layouts:** LinearLayout, Edge-to-Edge Display (WindowInsets)
+- **UI Framework:** Android XML, Material Components, ConstraintLayout
+- **Layouts:** LinearLayout, ConstraintLayout, Edge-to-Edge Display (WindowInsets)
 - **Build System:** Gradle (Kotlin DSL), Android Gradle Plugin (AGP)
 - **Minimum SDK:** Android 7.0 (API Level 24+)
 
 ---
 
-## 🚀 How to Run Task 1
+## 🚀 How to Run the Projects
 
 1. **Clone the Repository:**
    `ash
@@ -31,7 +32,7 @@ Welcome to the repository for **Android Development Internship** projects develo
 
 2. **Open in Android Studio:**
    - Launch **Android Studio**.
-   - Click **Open** and select the MyFirstAppApplication folder.
+   - Click **Open** and select the desired project folder (e.g., SimpleCalculator or MyFirstAppApplication).
    - Allow Gradle to sync and download dependencies.
 
 3. **Run on Emulator / Device:**
