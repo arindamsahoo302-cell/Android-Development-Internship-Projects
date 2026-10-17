@@ -12,6 +12,7 @@ Welcome to the repository for **Android Development Internship** projects develo
 | **Task 2** | [ðŸ§® SimpleCalculator](./SimpleCalculator) | A modern native Android Calculator application featuring arithmetic operators, parentheses, and dark-themed keypad UI. | Kotlin, ConstraintLayout, Material 3 | âœ… Completed |
 | **Task 3** | [ðŸŽ“ CollegeAppView](./CollegeAppView) | An Android WebView application loading the Panskura Banamali College portal with in-app navigation and history back-stack handling. | Kotlin, WebViewClient, Android SDK | âœ… Completed |
 | **Task 4** | [ðŸ’¼ LinkdinProfile](./LinkdinProfile) | A LinkedIn Profile UI clone application featuring custom cards, badges, and responsive sections. | Kotlin, XML, ConstraintLayout, Material UI | âœ… Completed |
+| **Task 5** | [🤖 AIChatBot](./AIChatBot) | An intelligent native Android AI Chatbot application powered by Google Gemini API with real-time formatting and custom API settings. | Kotlin, Gemini API, Coroutines, OkHttp | ✅ Completed |
 
 ---
 
